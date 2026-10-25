@@ -1,0 +1,11 @@
+{
+  "title": "BABO IS YOU",
+  "version": "0.5.0",
+  "revision": "1b3919a69beb2814ade3bfa9418ed9808b46c292",
+  "bytes": 6753134,
+  "sha256": "44815a238f758450e3ce901bf7f4ef6c2c2863ecbc8e600554fcdb38203ae6b7",
+  "files": [
+    "index.html",
+    ".nojekyll"
+  ]
+}
