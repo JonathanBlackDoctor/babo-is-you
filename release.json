@@ -1,11 +1,22 @@
 {
   "title": "BABO IS YOU",
   "version": "0.5.0",
-  "revision": "8fd34921e33945d1d88b9ec7dec79bee480d9ade",
-  "bytes": 6753133,
-  "sha256": "845cfc0cf6134294f0bf4c2c3ebb59cca217cb52999b796d02b646b7fd6a70d6",
+  "revision": "02c132a573b3e9943893932c47e6161acbbd4057",
+  "bytes": 6754740,
+  "sha256": "fc864ac83431c0f80e3f20866ed9d18fedeef471d89d5de1d364f8e5cbe09610",
   "files": [
     "index.html",
-    ".nojekyll"
+    ".nojekyll",
+    "og-card.png"
+  ],
+  "assets": [
+    {
+      "file": "og-card.png",
+      "type": "image/png",
+      "width": 1729,
+      "height": 910,
+      "bytes": 1673131,
+      "sha256": "943a995f64304a87a390ce147f0cabcb77d7e36946c57d604d668a8b98e4a1d4"
+    }
   ]
 }

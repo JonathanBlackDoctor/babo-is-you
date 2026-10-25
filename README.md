@@ -6,4 +6,4 @@ A puzzle about moving words, rewriting rules and crossing between two worlds. In
 
 Inspired by [Baba Is You](https://www.hempuli.com/Baba/). No assets, audio or levels from Baba Is You are bundled.
 
-This repository contains only the playable website artifact.
+This repository contains only the playable website artifact and its Open Graph card.
